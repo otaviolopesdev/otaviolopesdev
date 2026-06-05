@@ -6,7 +6,7 @@
 
 🚀 Desenvolvendo aplicações web com JavaScript, Node.js e SQL
 
-📍 Minas Gerais, Brasil
+📍 Viçosa Minas Gerais, Brasil
 
 ## Tecnologias
 
