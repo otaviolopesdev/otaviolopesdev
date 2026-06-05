@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou Otávio Augusto 👋
 
-<!--
-**otaviolopesdev/otaviolopesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack em formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvendo aplicações web com JavaScript, Node.js e SQL
+
+📍 Minas Gerais, Brasil
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- SQLite
+- Git e GitHub
+
+## Projetos em Destaque
+
+### 📝 MontaCV
+Gerador automático de currículos profissionais em PDF.
+
+### 🏥 Mais Médicos
+Sistema de gestão para clínicas e consultórios.
+
+### ⚖️ Sistema Advocacia
+Sistema de gestão jurídica desenvolvido com HTML, CSS e JavaScript.
+
+## Objetivo
+
+Buscando minha primeira oportunidade como Desenvolvedor Full Stack para aplicar e expandir meus conhecimentos em desenvolvimento web.
+
+## Contato
+
+📧 Email: otaviolopes.dev@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/otávio-augusto-dev
